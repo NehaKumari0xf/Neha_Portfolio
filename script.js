@@ -1,4 +1,4 @@
-    <script>
+    
         var tablinks = document.getElementsByClassName("tab-links");
         var tabcontents = document.getElementsByClassName("tab-contents");
 
@@ -20,5 +20,3 @@
         function closemenu() {
             document.getElementById("sidemenu").style.right = "-200px";
         }
-    </script> 
-
